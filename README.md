@@ -1,1 +1,2 @@
 # animated-happiness
+# Algorytm
